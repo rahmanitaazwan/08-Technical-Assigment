@@ -1,0 +1,28 @@
+1. Apa itu responsive web design?
+Responsive Web Design (RWD) adalah bertujan membuat desain
+website kita dapat diakses dalam device apapun.
+
+
+2. Sebutkan apa saja relative units yang dimiliki oleh CSS?
+em  : relatif terhadap ukuran teks sebuah element
+rem : relatif terhadap ukuran teks dari 'root' element
+ex  : relatif terhadap ukuran tinggi teks sebuah element
+ch  : relatif terhadap ukuran lebar angka '0'
+%   : relatif terhadap ukuran element induknya.
+vw  : relatif terhadap ukuran lebay layar (%)
+vh  : relatif terhadap ukuran tinggi layar (%)
+vmin    : relatif terhadap ukuran terkecil sisi layar (%)
+vmax    : relatif terhadap ukuran terbesar sisi llayar (%)
+
+
+3. Apa itu breakpoint? Bagaimana cara kita membuat hal tersebut?
+Breakpoint adalah perubahan yang terjadi pada tampilan saat berganti device atau ukuran width.
+Kita dapat membuatnya menjadi range media query.
+
+
+4. Apa yang dapat kita gunakan untuk memanipulasi tata letak suatu element dalam bidang 1 dimensi?
+flexbox
+
+
+5. Apa yang dapat kita gunakan untuk memanipulasi tata letak suatu element dalam bidang 2 dimensi?
+grid
